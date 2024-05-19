@@ -99,3 +99,12 @@ HTML page to test full stack skills.
             * List (combined). Each list row should have: title, body, name.
 
 3. Clicking on Clear button the form is reseted and lists are removed.
+
+## Challenges
+1. What happens if only one checkbox is selected?
+    * **Warning message is displayed.**
+    * Display list individually.
+  
+2. Initially it was not clear that the relationships do not need to be considered if more than 2 checkboxes are selected.
+    * **Lists are displayed individually.**
+    * Relationships are considered even in in 2 levels (user->post->comment).
