@@ -1,0 +1,64 @@
+.header {
+  background-color: rgb(255, 230, 0);
+  color: red;
+  text-align: center;
+  padding: 20px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.content-options {
+  background-color: rgba(0, 0, 0, 0.086);
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.content-info {
+  background-color: rgba(0, 0, 0, 0.086);
+  padding: 20px;
+  margin-top: 20px;
+  content: "";
+  display: table;
+  clear: both;
+  width: -webkit-fill-available;
+  width: -moz-available;
+}
+
+.column {
+  float: left;
+  text-align: center;
+  width: 22%;
+  padding: 15px;
+}
+
+.element {
+  text-align: justify;
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.footer {
+  background-color: rgb(255, 230, 0);
+  color: red;
+  text-align: right;
+  padding: 20px;
+}
+
+.user {
+  color: black;
+}
+
+.post {
+  color: blue;
+}
+
+.comment {
+  color: red;
+}
+
+.todo {
+  color: goldenrod;
+}
